@@ -21,3 +21,5 @@ Future things to add here:
 1. We need to add the schemetic and PCB design
 2. Possible links to the datasheets we used for an easier time during report writing
 3. Any computations we do(again mainly for reference)
+
+https://cdn-shop.adafruit.com/datasheets/ina219.pdf - INA219
