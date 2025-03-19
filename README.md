@@ -1,6 +1,6 @@
 # PCB-BOARD-PROJECT
 Currently we still need to flesh out our design in terms of component choice, back up designs and the actual design.
-Below is all the data we have currently :
+Below is all the data we have currently(the requirements of the project) :
 1. Operate up to 4 motors bidirectionally with the pins available to you (listed in the power pinout table). You will need to control 2x brushed DC motors which could each draw 200mA at the highest voltage of a 1S1P battery (the battery is further specified in the battery section).The other 2x motors are for the auxiliary connection and need to operate 500mA each.
 2. Place an INA219 for monitoring the battery on the I2C Bus and configure it correctly with respect to the hardware (cannot have BOTH A0 AND A1 on GND)
 3. Charge the battery from the 9V input pin (listed in the power pinout table).
