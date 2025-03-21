@@ -1,6 +1,7 @@
-This section just has links to datasheets and any other valuable info for the project. (Will try my best to keep it neat)
+This section just has links to datasheets and any other valuable info for the project. (Will try my best to keep it neat). It seems the hyperlinks to JLCPCB require a page refresh to show the data. 
 
 1. INA219:
+   
 i) INA219AIDR:
  - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8559701789747400704 (Datasheet)
  - https://jlcpcb.com/parts/componentSearch?searchTxt=INA219 (JLCPCB page)
