@@ -11,3 +11,37 @@ ii) INA219AIDCNR:
 - [https://jlcpcb.com/parts/componentSearch?searchTxt=INA219](https://jlcpcb.com/partdetail/TexasInstruments-INA219AIDCNR/C87469) (JLCPCB page)
   
 The other components in JLCPCB fell into two categories. Either to pricey to consider or too few component count. They ave been ignored.
+
+2. Voltage Regulators:
+   
+2.1 DC-DC Converter - Boost.
+
+i) HT7750B 
+   - https://jlcpcb.com/partdetail/HoltekSemicon-HT7750B/C259932 (JLCPCB page)
+   - https://www.alldatasheet.com/datasheet-pdf/view/142973/HOLTEK/HT7750.html (Datasheet)
+
+ii) MT3540-F23
+   - https://jlcpcb.com/partdetail/xi_an_AerosemiTech-MT3540F23/C181783(JLCPCB page)
+   - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8586200699318751232 (Datasheet)
+
+iii) TPS613222ADBVR
+   - https://jlcpcb.com/partdetail/TexasInstruments-TPS613222ADBVR/C2071163 (JLCPCB page)
+   - https://www.ti.com/cn/lit/ds/symlink/tps61322.pdf?ts=1742636762086&ref_url=https%253A%252F%252Fjlcpcb.com%252F (Datasheet)
+
+2.2 LDO 
+
+i) HT7533-1
+   - https://jlcpcb.com/partdetail/HoltekSemicon-HT75331/C14289 (JLCPCB page)
+   - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579707787284303872 (Datasheet)
+   
+ii) AP2112K-3.3TRG1
+   - https://jlcpcb.com/partdetail/DiodesIncorporated-AP2112K_33TRG1/C51118 (JLCPCB page)
+   - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588881290191360000 (Datasheet)
+
+iii) MIC5219-3.3YM5-TR
+   - https://jlcpcb.com/partdetail/MicrochipTech-MIC5219_3_3YM5TR/C29613 (JLCPCB page)
+   - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8586199085112037376 (Datasheet)
+
+iv) TPAP2112K-3.3TRG1
+   - https://jlcpcb.com/partdetail/TechPublic-TPAP2112K_33TRG1/C3021085 (JLCPCB page)
+   - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8589835741104021504 (Datasheet)
