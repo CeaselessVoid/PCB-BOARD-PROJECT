@@ -51,5 +51,5 @@ iv) TPAP2112K-3.3TRG1
 
 3.1 TP4056-42-ESOP8
    - https://jlcpcb.com/partdetail/17264-TP4056_42ESOP8/C16581 (JLCPCB page)
-   - 
+   - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588879072461508608 (Datasheet)
 
