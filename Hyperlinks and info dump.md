@@ -45,3 +45,11 @@ iii) MIC5219-3.3YM5-TR
 iv) TPAP2112K-3.3TRG1
    - https://jlcpcb.com/partdetail/TechPublic-TPAP2112K_33TRG1/C3021085 (JLCPCB page)
    - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8589835741104021504 (Datasheet)
+
+
+3. Battery Chargers
+
+3.1 TP4056-42-ESOP8
+   - https://jlcpcb.com/partdetail/17264-TP4056_42ESOP8/C16581 (JLCPCB page)
+   - 
+
