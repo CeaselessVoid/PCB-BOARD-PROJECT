@@ -21,7 +21,7 @@ i) HT7750B
    - https://www.alldatasheet.com/datasheet-pdf/view/142973/HOLTEK/HT7750.html (Datasheet)
 
 ii) MT3540-F23
-   - https://jlcpcb.com/partdetail/xi_an_AerosemiTech-MT3540F23/C181783(JLCPCB page)
+   - https://jlcpcb.com/partdetail/xi_an_AerosemiTech-MT3540F23/C181783 (JLCPCB page)
    - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8586200699318751232 (Datasheet)
 
 iii) TPS613222ADBVR
