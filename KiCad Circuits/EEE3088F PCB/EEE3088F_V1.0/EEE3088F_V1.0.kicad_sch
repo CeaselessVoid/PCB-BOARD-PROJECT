@@ -1,0 +1,20 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "4991139d-1412-4771-9d5c-4adac4b8b6d9")
+	(paper "A4")
+	(title_block
+		(title "EEE3088F PCB Circuit")
+		(date "2025-03-23")
+		(rev "v1.0")
+		(company "University of Cape Town")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
