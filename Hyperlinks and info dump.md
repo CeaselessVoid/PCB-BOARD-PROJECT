@@ -57,6 +57,10 @@ iv) TPAP2112K-3.3TRG1
    - https://jlcpcb.com/partdetail/Monolithic_PowerSystems-MP2617AGLZ/C3682812 (JCLPCB page)
    - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590922724149837824 (Datasheet)
 
+3.3 TP5100
+   - https://jlcpcb.com/partdetail/351706-TP5100/C379389 (JLCPCB page)
+   - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588884095233769472 (Datasheet)
+
 4. Motor Driver
 
 i) DRV8838DSGR
