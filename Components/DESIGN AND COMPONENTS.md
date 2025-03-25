@@ -27,5 +27,5 @@ This will form part of the power negotiation circuit and will work with the USB-
 
 5. USB-C Connector
 
-This will work in hand with the USB PD to negotiate for 9V from the Host. Our choices are TYPE-C 6P(073),    
+This will work in hand with the USB PD to negotiate for 9V from the Host. Our choices are TYPE-C 6P(073), TYPE-C 16P(073) and the   
 
