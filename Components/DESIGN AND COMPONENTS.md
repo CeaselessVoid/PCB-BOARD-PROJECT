@@ -14,10 +14,18 @@ This voltage regulator will work to provide a 5V output from the 3.7V battery su
 
 2.2 LDO 
 
-This voltage regulator will work to provide 3.3V output from the 3.7V battery supply. Our choices are AP2112K-3.3TRG1, MIC5219-3.3YM5-TR, HT7533-1(extended variant),HT7533-1(basic variant) and TPAP2112K-3.3TRG1 (all other components are extended). In terms of cost AP2112K-3.3TRG1 and HT7533-1(extended variant) are the cheeapest. To set up the voltage regulator capacitors are required. The main features to consider is the dropout voltage and the supply voltage. Using this we can eliminate HT7533-1(extended variant) and HT7533-1(basic variant) since the requirement for regulation is Vin = Vout + 2V. The choice between TPAP2112K-3.3TRG1, AP2112K-3.3TRG1 and MIC5219-3.3YM5-TR is tricky since MIC5219-3.3YM5-TR has a better PSRR but is more expensive with a higher dropout voltage. AP2112K-3.3TRG1 is the cheapest of the bunch but has a lower PSRR. For cost reasons we can eliminate MIC5219-3.3YM5-TR and the TPAP2112K-3.3TRG1. The AP2112K-3.3TRG1 was choosen since it was the most cost appropriate however the TPAP2112K-3.3TRG1 could work better since it has the highest PSRR whill also being cheaper than MIC5219-3.3YM5-TR.
+This voltage regulator will work to provide 3.3V output from the 3.7V battery supply. Our choices are AP2112K-3.3TRG1, MIC5219-3.3YM5-TR, HT7533-1(extended variant),HT7533-1(basic variant) and TPAP2112K-3.3TRG1 (all other components are extended). In terms of cost AP2112K-3.3TRG1 and HT7533-1(extended variant) are the cheeapest. To set up the voltage regulator capacitors are required. The main features to consider is the dropout voltage and the supply voltage. Using this we can eliminate HT7533-1(extended variant) and HT7533-1(basic variant) since the requirement for regulation is Vin = Vout + 2V. The choice between TPAP2112K-3.3TRG1, AP2112K-3.3TRG1 and MIC5219-3.3YM5-TR is tricky since MIC5219-3.3YM5-TR has a better PSRR but is more expensive with a higher dropout voltage. AP2112K-3.3TRG1 is the cheapest of the bunch but has a lower PSRR. For cost reasons we can eliminate MIC5219-3.3YM5-TR and the TPAP2112K-3.3TRG1. The AP2112K-3.3TRG1 was choosen since it was the most cost appropriate however the TPAP2112K-3.3TRG1 could work better since it has the highest PSRR while also being cheaper than MIC5219-3.3YM5-TR.
 
 3. Bidirectional motor control
 
 This will be done using H-bridge IC (s). Our choices are DRV8833PWPR, GR6205-SOP-8, and DRV8838DSGR. In terms of cost the GR6205-SOP-8 is the cheapest but it also has the the lowest output current rating at 200 mA. This means it can run the 200 mA motors but will fail for the higher current demand motors. Focusing on current rating the DRV8838DSGR is out best bet since it has a current rating of 1.8 A hence should run both motors and any other high current motors that might be brought in the future. Unfortunately, it can only drive one motor at a time hence 4 IC(s) are required which affects both cost and space. Our best an only option is the 
 DRV8833PWPR which drives two motors with a current rating of 1.5 A.
+
+4. USB PD
+
+This will form part of the power negotiation circuit and will work with the USB-C connection to get 9v from host. Our choices are CH224K and the HUSB237-AA001-DN06R. In terms of price the HUSB237-AA001-DN06R is cheaper however the CH224K has more flexibility when it comes to configuration(does not need resistors). However, since we are only interested in basic power negotiation the cheaper option (HUSB237-AA001-DN06R) will work fine. Both have data communication functionality but it will not be utilized.
+
+5. USB-C Connector
+
+This will work in hand with the USB PD to negotiate for 9V from the Host. Our choices are TYPE-C 6P(073),    
 
