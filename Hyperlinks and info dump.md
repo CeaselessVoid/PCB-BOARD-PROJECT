@@ -76,4 +76,26 @@ iii) GR6205-SOP-8
    - https://jlcpcb.com/partdetail/Gr-GR6205_SOP8/C18164411 (JLCPCB page)
    - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8553212736617000960 (Datasheet)
    
+5. USB C connector
+   
+i) TYPE-C 6P(073)
+   - https://jlcpcb.com/partdetail/ShouHan-TYPE_C_6P_073/C668623 (JLCPCB page)
+   - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588893482534100992 (Datasheet)
 
+ii) TYPE-C 16P(073)
+   - https://jlcpcb.com/partdetail/ShouHan-TYPE_C_16P_073/C668624 (JLCPCB page)
+   - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588905583437496320 (Datasheet)
+
+iii) TYPE-C 16P QTWT
+   - https://jlcpcb.com/partdetail/ShouHan-TYPE_C_16PQTWT/C5187472 (JLCPCB page)
+   - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8589836178129661952 (Datasheet)
+     
+6. USB PD
+
+i) CH224K
+   - https://jlcpcb.com/partdetail/wch_jiangsu_Qin_heng-CH224K/C970725 (JLCPCB page)
+   - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588893165608296448 (Datasheet)
+
+ii) HUSB237-AA001-DN06R
+   - https://jlcpcb.com/partdetail/Hynetek-HUSB237_AA001DN06R/C22373734 (JLCPCB page)
+   - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590908931298979840 (Datasheet)
