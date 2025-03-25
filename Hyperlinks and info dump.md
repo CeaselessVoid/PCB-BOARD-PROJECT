@@ -78,7 +78,7 @@ iii) GR6205-SOP-8
    
 5. USB C connector
    
-i) TYPE-C 6P(073)
+i) TYPE-C 6P(073) (Choosen)
    - https://jlcpcb.com/partdetail/ShouHan-TYPE_C_6P_073/C668623 (JLCPCB page)
    - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588893482534100992 (Datasheet)
 
@@ -96,6 +96,6 @@ i) CH224K
    - https://jlcpcb.com/partdetail/wch_jiangsu_Qin_heng-CH224K/C970725 (JLCPCB page)
    - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588893165608296448 (Datasheet)
 
-ii) HUSB237-AA001-DN06R
+ii) HUSB237-AA001-DN06R (Choosen)
    - https://jlcpcb.com/partdetail/Hynetek-HUSB237_AA001DN06R/C22373734 (JLCPCB page)
    - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590908931298979840 (Datasheet)
