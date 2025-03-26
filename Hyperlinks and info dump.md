@@ -197,7 +197,7 @@ iii) HX SS12D10G6
 
 i) BL1551B
 - https://jlcpcb.com/partdetail/bl_shanghai_belling-BL1551B/C2944066 (JLCPCB Page)
-- [https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8589039779975061504](https://jlcpcb.com/partdetail/bl_shanghai_belling-BL1551B/C2944066) (Datasheet)
+- https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8589039779975061504 (Datasheet)
 
 ii) ET3157
    - https://jlcpcb.com/partdetail/3170774-ET3157/C2904735 (JLCPCB page)
