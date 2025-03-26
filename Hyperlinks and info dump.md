@@ -180,4 +180,8 @@ viii) ERR1HM121F16OT (120uF)
 - https://jlcpcb.com/partdetail/Hanxia-HXSK12F14G5/C5149842 ( JLCPCB Page)
 - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590009073539047424 (Datasheet)
 
+10 Analogue Switches (Chosen)
+- https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590009073539047424 (JLCPCB Page)
+- https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8589039779975061504 (Datasheet)
+
 
