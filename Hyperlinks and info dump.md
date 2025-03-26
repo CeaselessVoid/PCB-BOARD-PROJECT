@@ -113,3 +113,69 @@ ii) RT9742GGJ5
 iii) AP2171WG-7  (Choosen)
    - https://jlcpcb.com/partdetail/DiodesIncorporated-AP2171WG7/C110466 (JLCPCB page)
    - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588881297834328064 (Datasheet)
+
+8. Passive components
+
+8.1 Resistors
+
+i) FRL1206JR430TS (430mΩ)
+   - https://jlcpcb.com/partdetail/Fojan-FRL1206JR430TS/C2934307 (JLCPCB page)
+   - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590222769360441344 (Datasheet)
+
+ii) 0603WAF1002T5E (10kΩ)
+   - https://jlcpcb.com/partdetail/26547-0603WAF1002T5E/C25804 (JLCPCB page)
+   - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706381320323072 (Datasheet)
+
+iii) 0603WAF1501T5E (1.5kΩ)
+   - https://jlcpcb.com/partdetail/23570-0603WAF1501T5E/C22843 (JLCPCB page)
+   - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706144165986304 (Datasheet)
+
+iv) 0603WAF9101T5E (9.1kΩ)
+   - https://jlcpcb.com/partdetail/23987-0603WAF9101T5E/C23260 (JLCPCB page)
+   - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706325305118720 (Datasheet)
+
+v) 0603WAF3001T5E (3kΩ)
+   - https://jlcpcb.com/partdetail/4618-0603WAF3001T5E/C4211 (JLCPCB page)
+   - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706243143307264 (Datasheet)
+
+vi) 1206W4J010JT5E (1Ω)
+   - https://jlcpcb.com/partdetail/1761-1206W4J010JT5E/C1409 (JLCPCB page)
+   - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8586177284142714880 (Datasheet)
+
+8.2 Capacitors
+
+i) CL05A225MQ5NSNC (2.2uF)
+   - https://jlcpcb.com/partdetail/13164-CL05A225MQ5NSNC/C12530 (JLCPCB page)
+   - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8586178550172540928 (Datasheet)
+   
+ii) CL21B103KBANNNC (10nF)
+   - https://jlcpcb.com/partdetail/2062-CL21B103KBANNNC/C1710 (JLCPCB page)
+   - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706770736144384 (Datasheet)
+
+iii) CL10A105KB8NNNC (1uF)
+   - https://jlcpcb.com/partdetail/16531-CL10A105KB8NNNC/C15849 (JLCPCB page)
+   - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8556213788459761664 (Datasheet)
+
+iv) CL10A106MQ8NNNC (10uF)
+   - https://jlcpcb.com/partdetail/2043-CL10A106MQ8NNNC/C1691 (JLCPCB page)
+   - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8586178152733552640 (Datasheet)
+
+v) CL10A475KO8NNNC (4.7uF)
+   - https://jlcpcb.com/partdetail/20375-CL10A475KO8NNNC/C19666 (JLCPCB page)
+   - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579707103462166528 (Datasheet)
+ 
+vi) CL05B104KO5NNNC (100nF)
+   - https://jlcpcb.com/partdetail/1877-CL05B104KO5NNNC/C1525 (JLCPCB page)
+   - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579707269996871680 (Datasheet)
+
+vii) 01EC1809SHC10UF50V (10uF)
+   - https://jlcpcb.com/partdetail/Knscha-01EC1809SHC10UF50V/C503219 (JLCPCB page)
+   - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588892766910341120 (Datasheet)
+
+viii) ERR1HM121F16OT (120uF)
+   - https://jlcpcb.com/partdetail/aishi_aihua_group-ERR1HM121F16OT/C106623 (JLCPCB page)
+   - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588898719165399040 (Datasheet)
+
+
+
+
