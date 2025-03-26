@@ -3609,6 +3609,16 @@
 		)
 		(uuid "bc24dc7f-9736-4643-bffc-481d82b09b72")
 	)
+	(text "7 & 9 Can be connected to \nLEDs to visualise information"
+		(exclude_from_sim no)
+		(at 150.368 182.626 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c6806289-53a3-454f-8469-f06380dfedfc")
+	)
 	(text "Input voltage VM is the Battery voltage"
 		(exclude_from_sim no)
 		(at 198.374 19.304 0)
@@ -4220,7 +4230,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 177.8) (xy 110.49 177.8)
+			(xy 113.03 177.8) (xy 105.41 177.8)
 		)
 		(stroke
 			(width 0)
@@ -4750,7 +4760,7 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 185.42) (xy 110.49 187.96)
+			(xy 105.41 185.42) (xy 105.41 187.96)
 		)
 		(stroke
 			(width 0)
@@ -4840,7 +4850,7 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 177.8) (xy 110.49 180.34)
+			(xy 105.41 177.8) (xy 105.41 180.34)
 		)
 		(stroke
 			(width 0)
@@ -9552,7 +9562,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
-		(at 110.49 182.88 0)
+		(at 105.41 182.88 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9560,7 +9570,7 @@
 		(dnp no)
 		(uuid "ac69234e-f395-45a6-b05b-f8bb1508d933")
 		(property "Reference" "R_ISET"
-			(at 114.554 182.88 90)
+			(at 109.982 181.864 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9568,7 +9578,7 @@
 			)
 		)
 		(property "Value" "1.5k"
-			(at 112.522 182.88 90)
+			(at 108.966 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9576,7 +9586,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 110.49 182.88 0)
+			(at 105.41 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9585,7 +9595,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 110.49 182.88 0)
+			(at 105.41 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9594,7 +9604,7 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
-			(at 110.49 182.88 0)
+			(at 105.41 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9821,7 +9831,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 110.49 187.96 0)
+		(at 105.41 187.96 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9829,7 +9839,7 @@
 		(dnp no)
 		(uuid "bbfa1ff8-5809-4f18-96c7-a9c435d0c10e")
 		(property "Reference" "#PWR035"
-			(at 110.49 194.31 0)
+			(at 105.41 194.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9838,7 +9848,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 107.95 187.452 0)
+			(at 102.87 187.452 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9846,7 +9856,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 110.49 187.96 0)
+			(at 105.41 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9855,7 +9865,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 110.49 187.96 0)
+			(at 105.41 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9864,7 +9874,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 110.49 187.96 0)
+			(at 105.41 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
