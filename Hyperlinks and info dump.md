@@ -6,7 +6,7 @@ i) INA219AIDR:
  - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8559701789747400704 (Datasheet)
  - [https://jlcpcb.com/parts/componentSearch?searchTxt=INA219 ](https://jlcpcb.com/partdetail/TexasInstruments-INA219AIDR/C138706)(JLCPCB page)
    
-ii) INA219AIDCNR: (choosen)
+ii) INA219AIDCNR: (Chosen)
 - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8586200525100486656 (Linked datasheet but i have my doubts about it)
 - [https://jlcpcb.com/parts/componentSearch?searchTxt=INA219](https://jlcpcb.com/partdetail/TexasInstruments-INA219AIDCNR/C87469) (JLCPCB page)
   
@@ -20,7 +20,7 @@ i) HT7750B
    - https://jlcpcb.com/partdetail/HoltekSemicon-HT7750B/C259932 (JLCPCB page)
    - https://www.alldatasheet.com/datasheet-pdf/view/142973/HOLTEK/HT7750.html (Datasheet)
 
-ii) MT3540-F23 (Choosen)
+ii) MT3540-F23 (Chosen)
    - https://jlcpcb.com/partdetail/xi_an_AerosemiTech-MT3540F23/C181783 (JLCPCB page)
    - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8586200699318751232 (Datasheet)
 
@@ -34,7 +34,7 @@ i) HT7533-1
    - https://jlcpcb.com/partdetail/HoltekSemicon-HT75331/C14289 (JLCPCB page)
    - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579707787284303872 (Datasheet)
    
-ii) AP2112K-3.3TRG1 (Choosen)
+ii) AP2112K-3.3TRG1 (Chosen)
    - https://jlcpcb.com/partdetail/DiodesIncorporated-AP2112K_33TRG1/C51118 (JLCPCB page)
    - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588881290191360000 (Datasheet)
 
@@ -70,7 +70,7 @@ i) DRV8838DSGR
    - https://jlcpcb.com/partdetail/TexasInstruments-DRV8838DSGR/C86667 (JLCPCB page)
    - https://www.ti.com/cn/lit/ds/symlink/drv8838.pdf?ts=1742644365219&ref_url=https%253A%252F%252Fso.szlcsc.com%252F (Datasheet)
 
-ii) DRV8833PWPR (Choosen)
+ii) DRV8833PWPR (Chosen)
    - https://jlcpcb.com/partdetail/TexasInstruments-DRV8833PWPR/C50506 (JLCPCB page)
    - https://www.ti.com/cn/lit/ds/symlink/drv8833.pdf?ts=1742626864131&ref_url=https%253A%252F%252Fitem.szlcsc.com%252F (Datasheet)
    - https://www.ti.com/lit/ds/symlink/drv8833.pdf?HQS=TI-null-null-alldatasheets-df-pf-SEP-wwe&ts=1742817487028&ref_url=https%253A%252F%252Fwww.alldatasheet.com%252F (Option 2 Datasheet)
@@ -81,7 +81,7 @@ iii) GR6205-SOP-8
    
 5. USB C connector
    
-i) TYPE-C 6P(073) (Choosen)
+i) TYPE-C 6P(073) (Chosen)
    - https://jlcpcb.com/partdetail/ShouHan-TYPE_C_6P_073/C668623 (JLCPCB page)
    - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588893482534100992 (Datasheet)
 
@@ -99,7 +99,7 @@ i) CH224K
    - https://jlcpcb.com/partdetail/wch_jiangsu_Qin_heng-CH224K/C970725 (JLCPCB page)
    - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588893165608296448 (Datasheet)
 
-ii) HUSB237-AA001-DN06R (Choosen)
+ii) HUSB237-AA001-DN06R (Chosen)
    - https://jlcpcb.com/partdetail/Hynetek-HUSB237_AA001DN06R/C22373734 (JLCPCB page)
    - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590908931298979840 (Datasheet)
 
@@ -113,7 +113,7 @@ ii) RT9742GGJ5
    - https://jlcpcb.com/partdetail/RichtekTech-RT9742GGJ5/C250547 (JLCPCB page)
    - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588885201744879616 (Datasheet)
 
-iii) AP2171WG-7  (Choosen)
+iii) AP2171WG-7  (Chosen)
    - https://jlcpcb.com/partdetail/DiodesIncorporated-AP2171WG7/C110466 (JLCPCB page)
    - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588881297834328064 (Datasheet)
 
@@ -179,12 +179,31 @@ viii) ERR1HM121F16OT (120uF)
    - https://jlcpcb.com/partdetail/aishi_aihua_group-ERR1HM121F16OT/C106623 (JLCPCB page)
    - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588898719165399040 (Datasheet)
 
-9 Mechanical/rocker switches (Chosen)
-- https://jlcpcb.com/partdetail/Hanxia-HXSK12F14G5/C5149842 ( JLCPCB Page)
-- https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590009073539047424 (Datasheet)
+9 Mechanical/rocker switches 
 
-10 Analogue Switches (Chosen)
-- https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590009073539047424 (JLCPCB Page)
+i) HX SK12F14G5 
+   - https://jlcpcb.com/partdetail/Hanxia-HXSK12F14G5/C5149842 ( JLCPCB Page)
+   - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590009073539047424 (Datasheet)
+
+ii) SS-12D11G3R
+   - http://jlcpcb.com/partdetail/XkbConnection-SS12D11G3R/C843362 (JLCPCB page)
+   - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588889563317723136 (Datasheet)
+
+iii) HX SS12D10G6 (Chosen)
+   - https://jlcpcb.com/partdetail/Hanxia-HXSS12D10G6/C19189121 (JLCPCB page)
+   - https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2311032126_hanxia-HX-SS12D10G6_C19189121.pdf (Datasheet)
+   
+10 Analogue Switches 
+
+i) BL1551B
+- https://jlcpcb.com/partdetail/bl_shanghai_belling-BL1551B/C2944066 (JLCPCB Page)
 - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8589039779975061504 (Datasheet)
 
+ii) ET3157
+   - https://jlcpcb.com/partdetail/3170774-ET3157/C2904735 (JLCPCB page)
+   - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588944774351507456 (Datasheet)
 
+iii) FSW3157YSOT363G/TR (Chosen)
+   - https://jlcpcb.com/partdetail/fullway-FSW3157YSOT363GTR/C32713320 (JLCPCB page)
+   - https://www.lcsc.com/datasheet/lcsc_datasheet_2407251614_Full-Way-FSW3157YSOT363G-TR_C32713320.pdf (Datasheet)
+   
