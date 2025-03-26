@@ -189,7 +189,7 @@ ii) SS-12D11G3R
    - http://jlcpcb.com/partdetail/XkbConnection-SS12D11G3R/C843362 (JLCPCB page)
    - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588889563317723136 (Datasheet)
 
-iii) HX SS12D10G6
+iii) HX SS12D10G6 (Chosen)
    - https://jlcpcb.com/partdetail/Hanxia-HXSS12D10G6/C19189121 (JLCPCB page)
    - https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2311032126_hanxia-HX-SS12D10G6_C19189121.pdf (Datasheet)
    
@@ -202,3 +202,8 @@ i) BL1551B
 ii) ET3157
    - https://jlcpcb.com/partdetail/3170774-ET3157/C2904735 (JLCPCB page)
    - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588944774351507456 (Datasheet)
+
+iii) FSW3157YSOT363G/TR (Chosen)
+   - https://jlcpcb.com/partdetail/fullway-FSW3157YSOT363GTR/C32713320 (JLCPCB page)
+   - https://www.lcsc.com/datasheet/lcsc_datasheet_2407251614_Full-Way-FSW3157YSOT363G-TR_C32713320.pdf (Datasheet)
+   
