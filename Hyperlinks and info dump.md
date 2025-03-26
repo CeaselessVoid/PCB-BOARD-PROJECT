@@ -176,6 +176,8 @@ viii) ERR1HM121F16OT (120uF)
    - https://jlcpcb.com/partdetail/aishi_aihua_group-ERR1HM121F16OT/C106623 (JLCPCB page)
    - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588898719165399040 (Datasheet)
 
-
+9 Mechanical/rocker switches
+- https://jlcpcb.com/partdetail/Hanxia-HXSK12F14G5/C5149842 ( JLCPCB Page)
+- https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590009073539047424 (Datasheet)
 
 
