@@ -99,3 +99,17 @@ i) CH224K
 ii) HUSB237-AA001-DN06R (Choosen)
    - https://jlcpcb.com/partdetail/Hynetek-HUSB237_AA001DN06R/C22373734 (JLCPCB page)
    - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590908931298979840 (Datasheet)
+
+7. Load switching IC
+
+i) TPS22908YZTR
+   - https://jlcpcb.com/partdetail/TexasInstruments-TPS22908YZTR/C240334 (JLCPCB page)
+   - https://www.ti.com/cn/lit/ds/symlink/tps22908.pdf?ts=1742892859966 (Datasheet)
+
+ii) RT9742GGJ5
+   - https://jlcpcb.com/partdetail/RichtekTech-RT9742GGJ5/C250547 (JLCPCB page)
+   - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588885201744879616 (Datasheet)
+
+iii) AP2171WG-7  (Choosen)
+   - https://jlcpcb.com/partdetail/DiodesIncorporated-AP2171WG7/C110466 (JLCPCB page)
+   - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588881297834328064 (Datasheet)

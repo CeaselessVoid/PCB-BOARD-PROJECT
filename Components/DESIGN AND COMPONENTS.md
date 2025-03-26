@@ -29,3 +29,7 @@ This will form part of the power negotiation circuit and will work with the USB-
 
 This will work in hand with the USB PD to negotiate for 9V from the Host. Our choices are TYPE-C 6P(073), TYPE-C 16P(073) and the TYPE-C 16P QTWT. The cheapest and simplest design was TYPE-C 6P(073). The other two seemed to offer dual connection which was not necessary for this project. Additionally, they took up more space. In conclusion, we pick the simpler solution (TYPE-C 6P(073)) since a more complex one is just redundant.
 
+6. Load Switching IC
+
+This will use the CRTL-EXT-load pins to provide and remove a 1A supply to a load.(we require 2 for the project). Our choices are TPS22908YZTR, RT9742GGJ5 and AP2171WG-7. In terms of price AP2171WG-7 is the cheapest. We need to consider the RDS(on) of each component since it controls the power dissipation of the IC. The TPS22908YZTR has the lowest RDS(on) however it only accepts a maximum of 3.6V. Since our board will give this section 5V we can eliminate it. Comparing the RT9742GGJ5 and AP2171WG-7 we note that the RT9742GGJ5 has a better RDS(on) but is more expensive. For this perticular design the load current is set to 1A hence the Power dissipated difference between RT9742GGJ5 and AP2171WG-7 is in the mW range hence we can settle for the cheaper component(AP2171WG-7 ). If the current requirement were to change the later would be a better choice despite its price.
+
