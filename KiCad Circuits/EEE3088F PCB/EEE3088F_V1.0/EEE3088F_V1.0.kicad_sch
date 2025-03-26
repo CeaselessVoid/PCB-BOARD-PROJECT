@@ -7,7 +7,7 @@
 	(title_block
 		(title "EEE3088F PCB Circuit")
 		(date "2025-03-23")
-		(rev "v1.0")
+		(rev "v1.1")
 		(company "University of Cape Town")
 	)
 	(lib_symbols
