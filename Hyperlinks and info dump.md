@@ -145,6 +145,23 @@ vi) 1206W4J010JT5E (1Ω)
    - https://jlcpcb.com/partdetail/1761-1206W4J010JT5E/C1409 (JLCPCB page)
    - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8586177284142714880 (Datasheet)
 
+vii) 0805W8F3000T5E (300Ω)
+   - https://jlcpcb.com/partdetail/18305-0805W8F3000T5E/C17617 (JLCPCB page)
+   - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706564124729344 (Datasheet)
+
+viii) 0603WAF2201T5E (2.2kΩ)
+   - https://jlcpcb.com/partdetail/4597-0603WAF2201T5E/C4190 (JLCPCB page)
+   - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706158415659008 (Datasheet)
+
+ix) 0603WAF3301T5E (3.3kΩ)
+   - https://jlcpcb.com/partdetail/23705-0603WAF3301T5E/C22978 (JLCPCB page)
+   - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706198066577408 (Datasheet)
+
+x) 0805W8F1000T5E (100Ω)
+   - https://jlcpcb.com/partdetail/18096-0805W8F1000T5E/C17408 (JLCPCB page)
+   - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8562006687177089024 (Datasheet)
+
+xi) 0805W8F3000T5E ()
 8.2 Capacitors
 
 i) CL05A225MQ5NSNC (2.2uF)
