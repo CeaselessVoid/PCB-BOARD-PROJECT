@@ -47,9 +47,17 @@ iv) TPAP2112K-3.3TRG1
    - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8589835741104021504 (Datasheet)
 
 2.3 Schottky Diodes
+
 i) SS34
 - https://jlcpcb.com/partdetail/mdd_microdiode_semiconductor-SS34/C8678 (JLCPCB page)
 - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8586172667489079296 (Datasheet)
+
+2.3 Inductor 
+
+i) FTC252010S4R7MBCA (4.7uH)
+   - https://jlcpcb.com/partdetail/6763480-FTC252010S4R7MBCA/C5832360 (JLCPCB page)
+   - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590904256692510720 (Datasheet)
+   
 3. Battery Chargers
 
 3.1 TP4056-42-ESOP8
@@ -144,6 +152,30 @@ v) 0603WAF3001T5E (3kΩ)
 vi) 1206W4J010JT5E (1Ω)
    - https://jlcpcb.com/partdetail/1761-1206W4J010JT5E/C1409 (JLCPCB page)
    - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8586177284142714880 (Datasheet)
+
+vii) 0805W8F3000T5E (300Ω)
+   - https://jlcpcb.com/partdetail/18305-0805W8F3000T5E/C17617 (JLCPCB page)
+   - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706564124729344 (Datasheet)
+
+viii) 0603WAF2201T5E (2.2kΩ)
+   - https://jlcpcb.com/partdetail/4597-0603WAF2201T5E/C4190 (JLCPCB page)
+   - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706158415659008 (Datasheet)
+
+ix) 0603WAF3301T5E (3.3kΩ)
+   - https://jlcpcb.com/partdetail/23705-0603WAF3301T5E/C22978 (JLCPCB page)
+   - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706198066577408 (Datasheet)
+
+x) 0805W8F1000T5E (100Ω)
+   - https://jlcpcb.com/partdetail/18096-0805W8F1000T5E/C17408 (JLCPCB page)
+   - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8562006687177089024 (Datasheet)
+     
+xi) FRL1206JR250TS (250mΩ)
+   - https://jlcpcb.com/partdetail/Fojan-FRL1206JR250TS/C2934302 (JLCPCB page)
+   - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590222766902579200 (Datasheet)
+
+xii) RL0603FR-070R15L (150mΩ)
+   - https://jlcpcb.com/partdetail/Yageo-RL0603FR070R15L/C375502 (JLCPCB page)
+   - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588931929702354944 (Datasheet)
 
 8.2 Capacitors
 
