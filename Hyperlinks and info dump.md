@@ -177,6 +177,10 @@ xii) RL0603FR-070R15L (150mΩ)
    - https://jlcpcb.com/partdetail/Yageo-RL0603FR070R15L/C375502 (JLCPCB page)
    - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588931929702354944 (Datasheet)
 
+xiii) 0603WAF7502T5E ()
+   - https://jlcpcb.com/partdetail/23969-0603WAF7502T5E/C23242 (JLCPCB page)
+   - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706316903792640 (Datasheet)
+
 8.2 Capacitors
 
 i) CL05A225MQ5NSNC (2.2uF)
