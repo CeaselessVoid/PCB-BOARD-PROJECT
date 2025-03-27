@@ -72,6 +72,10 @@ i) FTC252010S4R7MBCA (4.7uH)
    - https://jlcpcb.com/partdetail/351706-TP5100/C379389 (JLCPCB page)
    - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588884095233769472 (Datasheet)
 
+3.4 BQ24074RGT (Chosen)
+   - https://jlcpcb.com/partdetail/TexasInstruments-BQ24074RGTR/C54313 ( JLC Page)
+   - https://www.ti.com/cn/lit/ds/symlink/bq24074.pdf?ts=1743070751216 (Datasheet)
+
 4. Motor Driver
 
 i) DRV8838DSGR
