@@ -47,9 +47,16 @@ iv) TPAP2112K-3.3TRG1
    - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8589835741104021504 (Datasheet)
 
 2.3 Schottky Diodes
+
 i) SS34
 - https://jlcpcb.com/partdetail/mdd_microdiode_semiconductor-SS34/C8678 (JLCPCB page)
 - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8586172667489079296 (Datasheet)
+
+2.3 Inductor 
+i) FTC252010S4R7MBCA (4.7uH)
+   - https://jlcpcb.com/partdetail/6763480-FTC252010S4R7MBCA/C5832360 (JLCPCB page)
+   - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590904256692510720 (Datasheet)
+   
 3. Battery Chargers
 
 3.1 TP4056-42-ESOP8
