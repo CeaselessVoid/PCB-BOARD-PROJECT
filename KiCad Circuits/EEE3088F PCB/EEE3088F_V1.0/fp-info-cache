@@ -1,4 +1,4 @@
-24974406883357030
+24986608459058305
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -57477,12 +57477,54 @@ IND-SMD_L2.5-W2.0-VLS252012CX-150M
 2
 2
 Footprints
+QFN-16_L3.0-W3.0-P0.50-TL-EP1.7
+
+
+0
+17
+17
+Footprints
 R0603
 
 
 0
 2
 2
+Footprints
+R1206
+
+
+0
+2
+2
+Footprints
+SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR
+
+
+0
+5
+5
+Footprints
+SOT-23-8_L3.0-W1.7-P0.65-LS2.8-BR
+
+
+0
+8
+8
+Footprints
+SOT-25-5_L2.9-W1.6-P0.95-LS2.8-BL
+
+
+0
+5
+5
+Footprints
+SOT-25-5_L3.0-W1.8-P0.95-LS3.0-BL
+
+
+0
+5
+5
 Footprints
 SOT-363_L2.1-W1.3-P0.65-LS2.1-BL
 
@@ -57504,6 +57546,13 @@ TDFN-6_L2.0-W2.0-P0.65-TL-EP
 0
 7
 7
+Footprints
+TSSOP-16_L5.0-W4.4-P0.65-LS6.4-BL-EP
+
+
+0
+21
+17
 Footprints
 TYPE-C-SMD_TYPE-C-6P_5
 
