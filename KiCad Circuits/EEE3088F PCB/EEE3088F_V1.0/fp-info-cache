@@ -1,4 +1,4 @@
-24967427558029231
+24974406883357030
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -57455,6 +57455,34 @@ emi filter
 0
 5
 5
+Footprints
+CAP-TH_BD5.0-P2.00-D0.8-FD
+
+
+0
+2
+2
+Footprints
+CAP-TH_BD8.0-P3.50-D0.6-FD
+
+
+0
+2
+2
+Footprints
+IND-SMD_L2.5-W2.0-VLS252012CX-150M
+
+
+0
+2
+2
+Footprints
+R0603
+
+
+0
+2
+2
 Footprints
 SOT-363_L2.1-W1.3-P0.65-LS2.1-BL
 
