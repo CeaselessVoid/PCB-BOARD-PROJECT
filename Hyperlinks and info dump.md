@@ -160,8 +160,15 @@ ix) 0603WAF3301T5E (3.3kΩ)
 x) 0805W8F1000T5E (100Ω)
    - https://jlcpcb.com/partdetail/18096-0805W8F1000T5E/C17408 (JLCPCB page)
    - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8562006687177089024 (Datasheet)
+     
+xi) FRL1206JR250TS (250mΩ)
+   - https://jlcpcb.com/partdetail/Fojan-FRL1206JR250TS/C2934302 (JLCPCB page)
+   - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590222766902579200 (Datasheet)
 
-xi) 0805W8F3000T5E ()
+xii) RL0603FR-070R15L (150mΩ)
+   - https://jlcpcb.com/partdetail/Yageo-RL0603FR070R15L/C375502 (JLCPCB page)
+   - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588931929702354944 (Datasheet)
+
 8.2 Capacitors
 
 i) CL05A225MQ5NSNC (2.2uF)
