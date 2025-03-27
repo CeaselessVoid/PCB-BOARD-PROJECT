@@ -53,6 +53,7 @@ i) SS34
 - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8586172667489079296 (Datasheet)
 
 2.3 Inductor 
+
 i) FTC252010S4R7MBCA (4.7uH)
    - https://jlcpcb.com/partdetail/6763480-FTC252010S4R7MBCA/C5832360 (JLCPCB page)
    - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590904256692510720 (Datasheet)
