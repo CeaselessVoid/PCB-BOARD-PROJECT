@@ -181,6 +181,10 @@ xiii) 0603WAF7502T5E (75kΩ)
    - https://jlcpcb.com/partdetail/23969-0603WAF7502T5E/C23242 (JLCPCB page)
    - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706316903792640 (Datasheet)
 
+xiv) RLM12FTCMR020 (0.02Ω)
+   - https://jlcpcb.com/partdetail/ta_iTech-RLM12FTCMR020/C393094 (JLCPCB page)
+   - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588933696833662976 (Datasheet)
+
 8.2 Capacitors
 
 i) CL05A225MQ5NSNC (2.2uF)
