@@ -675,137 +675,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Connector:TestPoint_2Pole"
-			(pin_names
-				(offset 0.762)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "TP"
-				(at 0 1.524 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "TestPoint_2Pole"
-				(at 0 -1.778 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "2-polar test point"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "point tp"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "Pin* Test*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "TestPoint_2Pole_0_1"
-				(circle
-					(center -1.778 0)
-					(radius 0.762)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 1.778 0)
-					(radius 0.762)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -5.08 0 0)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 0 180)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Connector_Generic:Conn_02x16_Odd_Even"
 			(pin_names
 				(offset 1.016)
@@ -9027,12 +8896,6 @@
 		(uuid "006b6741-5e78-451d-83f8-75f571efc05f")
 	)
 	(junction
-		(at 83.82 123.19)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "05bc3df4-3120-424e-a85f-78df8a8f86fb")
-	)
-	(junction
 		(at 199.39 26.67)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9069,12 +8932,6 @@
 		(uuid "1be75764-113e-4791-9b39-633451fd96be")
 	)
 	(junction
-		(at 97.79 123.19)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1e9bffbe-e66c-4e74-b439-7b5d1c9b9849")
-	)
-	(junction
 		(at 369.57 57.15)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9085,12 +8942,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2c658d73-fc32-40f1-b833-69e029c54a8f")
-	)
-	(junction
-		(at 95.25 168.91)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2ea6e8d0-8b18-4c58-8869-bb0919274f8d")
 	)
 	(junction
 		(at 74.93 265.43)
@@ -9157,18 +9008,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "52d71344-94d3-4970-be66-9b1f4db5c896")
-	)
-	(junction
-		(at 97.79 63.5)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5fe405ff-627f-432e-80c6-e2a924d8ddf3")
-	)
-	(junction
-		(at 109.22 168.91)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "64301ca2-4ba7-4093-bc54-38471b004b9a")
 	)
 	(junction
 		(at 342.9 68.58)
@@ -9301,12 +9140,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "caa9dbd6-1b86-4c93-a19e-df6b27cf9b58")
-	)
-	(junction
-		(at 83.82 63.5)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ce2f7458-c33f-4f3d-b809-2f47c1cfd130")
 	)
 	(junction
 		(at 217.17 116.84)
@@ -9658,16 +9491,6 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 168.91) (xy 110.49 168.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "16fa86f0-ef87-4342-9c5a-b844e719ccf2")
-	)
-	(wire
-		(pts
 			(xy 212.09 229.87) (xy 212.09 223.52)
 		)
 		(stroke
@@ -9818,16 +9641,6 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 123.19) (xy 83.82 123.19)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "24bde81e-9589-4151-b73c-dbd42d38c4a6")
-	)
-	(wire
-		(pts
 			(xy 349.25 53.34) (xy 349.25 52.07)
 		)
 		(stroke
@@ -9968,16 +9781,6 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 125.73) (xy 83.82 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2f69ab12-e290-49db-ba3f-98ea3b05098a")
-	)
-	(wire
-		(pts
 			(xy 157.48 127) (xy 157.48 128.27)
 		)
 		(stroke
@@ -9998,7 +9801,7 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 63.5) (xy 102.87 63.5)
+			(xy 81.28 63.5) (xy 102.87 63.5)
 		)
 		(stroke
 			(width 0)
@@ -10108,7 +9911,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 123.19) (xy 97.79 123.19)
+			(xy 82.55 123.19) (xy 100.33 123.19)
 		)
 		(stroke
 			(width 0)
@@ -10185,16 +9988,6 @@
 			(type default)
 		)
 		(uuid "3ea97f24-5964-486a-a71b-1f90d598a716")
-	)
-	(wire
-		(pts
-			(xy 83.82 123.19) (xy 82.55 123.19)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "404a5133-7e9b-4bef-9a94-06b5de0eddcb")
 	)
 	(wire
 		(pts
@@ -10838,16 +10631,6 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 168.91) (xy 95.25 166.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7f41850c-525b-45a1-8499-99d0bcc20c9f")
-	)
-	(wire
-		(pts
 			(xy 68.58 181.61) (xy 68.58 182.88)
 		)
 		(stroke
@@ -10945,16 +10728,6 @@
 			(type default)
 		)
 		(uuid "8bb04cb4-cd03-4d15-afca-76a67d1c47fe")
-	)
-	(wire
-		(pts
-			(xy 95.25 125.73) (xy 97.79 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8d9a3174-3248-405d-8ff6-cfbee830fc39")
 	)
 	(wire
 		(pts
@@ -11098,16 +10871,6 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 123.19) (xy 83.82 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9d1f039e-2724-4746-aa28-b05feee2e082")
-	)
-	(wire
-		(pts
 			(xy 321.31 143.51) (xy 321.31 142.24)
 		)
 		(stroke
@@ -11188,16 +10951,6 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 63.5) (xy 97.79 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a29c5ed6-4f53-4783-81f5-6d3d2709d005")
-	)
-	(wire
-		(pts
 			(xy 208.28 266.7) (xy 208.28 267.97)
 		)
 		(stroke
@@ -11225,16 +10978,6 @@
 			(type default)
 		)
 		(uuid "a40ef4c8-9f79-4093-a20e-abf406c49989")
-	)
-	(wire
-		(pts
-			(xy 109.22 168.91) (xy 109.22 166.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a5ac28f6-ba54-4da9-ae0b-b627c2078358")
 	)
 	(wire
 		(pts
@@ -11275,16 +11018,6 @@
 			(type default)
 		)
 		(uuid "a7c50407-ee95-470b-922b-d18703a36b17")
-	)
-	(wire
-		(pts
-			(xy 97.79 123.19) (xy 97.79 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a923295e-f5ed-4c92-bef4-9d3ff2886819")
 	)
 	(wire
 		(pts
@@ -11348,16 +11081,6 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 63.5) (xy 97.79 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "aee9444a-6346-4f0e-8f9c-404f4937865f")
-	)
-	(wire
-		(pts
 			(xy 222.25 234.95) (xy 236.22 234.95)
 		)
 		(stroke
@@ -11385,16 +11108,6 @@
 			(type default)
 		)
 		(uuid "b01f746b-0220-41c9-96f3-ad8b72b8d3e0")
-	)
-	(wire
-		(pts
-			(xy 97.79 166.37) (xy 95.25 166.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b0616990-2798-403d-b5d3-a5df1ea2e6fd")
 	)
 	(wire
 		(pts
@@ -11465,16 +11178,6 @@
 			(type default)
 		)
 		(uuid "b838d86b-8ed8-4d47-af6a-bb877a003e4c")
-	)
-	(wire
-		(pts
-			(xy 83.82 63.5) (xy 83.82 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b85f0f5b-75e7-44b5-b6b1-3117f740d533")
 	)
 	(wire
 		(pts
@@ -11635,16 +11338,6 @@
 			(type default)
 		)
 		(uuid "c3b3d025-a70f-4734-9c0d-a5cfd1679e16")
-	)
-	(wire
-		(pts
-			(xy 107.95 166.37) (xy 109.22 166.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c5296232-9319-40d6-a1bf-16db2a2ee6ac")
 	)
 	(wire
 		(pts
@@ -11918,16 +11611,6 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 168.91) (xy 109.22 168.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e0b0d727-c28e-4f21-bf79-fab59bab9fb8")
-	)
-	(wire
-		(pts
 			(xy 190.5 26.67) (xy 199.39 26.67)
 		)
 		(stroke
@@ -11945,16 +11628,6 @@
 			(type default)
 		)
 		(uuid "e1f7e34d-5363-405f-b08d-d3c32ba3e8d0")
-	)
-	(wire
-		(pts
-			(xy 81.28 63.5) (xy 83.82 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e1fffcc7-881c-438f-b4f9-4838649fc8ca")
 	)
 	(wire
 		(pts
@@ -12055,16 +11728,6 @@
 			(type default)
 		)
 		(uuid "e7d5c9c0-44b3-4db4-b82d-72c268fa8917")
-	)
-	(wire
-		(pts
-			(xy 95.25 66.04) (xy 97.79 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e966349b-c049-4942-b77c-71643ea9918d")
 	)
 	(wire
 		(pts
@@ -12188,16 +11851,6 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 66.04) (xy 83.82 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f9bc45b4-e05e-4c2c-b598-027da0ab2f06")
-	)
-	(wire
-		(pts
 			(xy 147.32 52.07) (xy 147.32 48.26)
 		)
 		(stroke
@@ -12248,7 +11901,7 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 168.91) (xy 95.25 168.91)
+			(xy 93.98 168.91) (xy 110.49 168.91)
 		)
 		(stroke
 			(width 0)
@@ -18733,73 +18386,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:TestPoint_2Pole")
-		(at 90.17 125.73 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "5e9cdfc3-8ede-4263-9f22-07930b34621c")
-		(property "Reference" "TP17"
-			(at 94.996 127.508 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "TestPoint_2Pole"
-			(at 105.156 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Bridge_Pitch5.08mm_Drill1.3mm"
-			(at 90.17 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 90.17 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "2-polar test point"
-			(at 90.17 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "b009b173-d874-45af-930a-374ce247a221")
-		)
-		(pin "1"
-			(uuid "511c2d9a-524a-4f3a-b341-381f7784fe3e")
-		)
-		(instances
-			(project "EEE3088F_V1.0"
-				(path "/4991139d-1412-4771-9d5c-4adac4b8b6d9"
-					(reference "TP17")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Driver_Motor:DRV8833PWP")
 		(at 66.04 53.34 0)
 		(unit 1)
@@ -24675,73 +24261,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:TestPoint_2Pole")
-		(at 90.17 66.04 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "bc1aab50-358d-4e96-ac74-07211d1555fa")
-		(property "Reference" "TP18"
-			(at 92.71 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "TestPoint_2Pole"
-			(at 103.378 67.564 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Bridge_Pitch5.08mm_Drill1.3mm"
-			(at 90.17 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 90.17 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "2-polar test point"
-			(at 90.17 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "70a86217-2219-44cd-9957-447166d31894")
-		)
-		(pin "1"
-			(uuid "de546e1b-4a96-4e3c-aeec-285148573e51")
-		)
-		(instances
-			(project "EEE3088F_V1.0"
-				(path "/4991139d-1412-4771-9d5c-4adac4b8b6d9"
-					(reference "TP18")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 175.26 58.42 0)
 		(unit 1)
@@ -27403,73 +26922,6 @@
 			(project "EEE3088F_V1.0"
 				(path "/4991139d-1412-4771-9d5c-4adac4b8b6d9"
 					(reference "R2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint_2Pole")
-		(at 102.87 166.37 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f57a4a5c-8e25-4084-8c0b-4c519107840d")
-		(property "Reference" "TP21"
-			(at 99.822 163.068 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "TestPoint_2Pole"
-			(at 113.792 163.322 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Bridge_Pitch5.08mm_Drill1.3mm"
-			(at 102.87 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 102.87 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "2-polar test point"
-			(at 102.87 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "aedc7815-b210-4cc9-ab9f-f226b2ec7999")
-		)
-		(pin "1"
-			(uuid "5f2ccc6e-0866-4165-889c-4307054d186c")
-		)
-		(instances
-			(project "EEE3088F_V1.0"
-				(path "/4991139d-1412-4771-9d5c-4adac4b8b6d9"
-					(reference "TP21")
 					(unit 1)
 				)
 			)
