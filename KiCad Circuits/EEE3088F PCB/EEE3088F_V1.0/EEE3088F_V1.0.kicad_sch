@@ -21972,7 +21972,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Footprints:SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR"
+		(property "Footprint" "PCM_JLCPCB:SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR"
 			(at 241.3 40.64 0)
 			(effects
 				(font
