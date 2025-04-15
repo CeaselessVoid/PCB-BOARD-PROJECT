@@ -60,6 +60,7 @@ i) FTC252010S4R7MBCA (4.7uH)
    
 3. Battery Chargers
 
+
 3.1 TP4056-42-ESOP8
    - https://jlcpcb.com/partdetail/17264-TP4056_42ESOP8/C16581 (JLCPCB page)
    - https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588879072461508608 (Datasheet)
@@ -75,6 +76,12 @@ i) FTC252010S4R7MBCA (4.7uH)
 3.4 BQ24074RGT (Chosen)
    - https://jlcpcb.com/partdetail/TexasInstruments-BQ24074RGTR/C54313 ( JLC Page)
    - https://www.ti.com/cn/lit/ds/symlink/bq24074.pdf?ts=1743070751216 (Datasheet)
+
+3' Fast Charging Switch
+
+i) FSW3157YSOT363G/TR
+   - https://jlcpcb.com/parts/componentSearch?searchTxt=FSW3157YSOT363G%2FTR (JLC Page)
+   - https://www.lcsc.com/datasheet/lcsc_datasheet_2407251614_Full-Way-FSW3157YSOT363G-TR_C32713320.pdf (Datasheet)
 
 4. Motor Driver
 
